@@ -1,0 +1,13 @@
+package jsp_springcore;
+
+import org.springframework.beans.factory.BeanFactory;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+
+public class Driver {
+public static void main(String[] args) {
+	BeanFactory fac=new AnnotationConfigApplicationContext(myConfig.class);
+	Person e=fac.getBean("person",Person.class);
+	System.out.println(e);
+}
+}

@@ -1,0 +1,9 @@
+package jsp_springcore;
+
+public class Realme implements Mobile{
+@Override
+
+ public void ring() {
+	System.out.println("relame is ringing");
+}
+}

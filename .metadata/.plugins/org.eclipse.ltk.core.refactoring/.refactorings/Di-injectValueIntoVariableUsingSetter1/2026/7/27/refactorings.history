@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;Di-injectValueIntoVariableUsingSetter1&apos;&#x0D;&#x0A;- Original project: &apos;Di-injectValueIntoVariableUsingSetter1&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Di-injectValueIntoVariableUsingSetter1/src/main/java/spring_core_demo1&#x0D;&#x0A;     spring_core_demo1.Driver.java&#x0D;&#x0A;     spring_core_demo1.Employee.java&#x0D;&#x0A;     spring_core_demo1.Person.java" description="Delete elements" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;spring_core_demo1" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1782977566413" subPackages="false" version="1.0"/>
+</session>

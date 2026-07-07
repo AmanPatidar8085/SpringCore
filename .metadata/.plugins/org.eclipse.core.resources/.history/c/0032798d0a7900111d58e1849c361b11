@@ -1,0 +1,25 @@
+package jsp.springcore;
+
+import java.util.Map;
+
+public class Company {
+private String name;
+private String location;
+private Map<Integer,String>employee;
+
+
+public Company(String name, String location, Map<Integer, String> employee) {
+
+	this.name = name;
+	this.location = location;
+	this.employee = employee;
+}
+
+
+@Override
+public String toString() {
+	return "Company [name=" + name + ", location=" + location + ", employee=" + employee + "]";
+}
+
+
+}
